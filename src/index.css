@@ -1,0 +1,9 @@
+/* For small screens (up to 576px) */
+@media (max-width: 768px) {
+    .s-wid{
+        width: 100% !important;
+    }
+   .s-device{
+    margin: 15px 0px !important;
+   }
+  }
